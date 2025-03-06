@@ -54,7 +54,7 @@ Digital activities consume energy, but most people are unaware of their impact. 
 
 Want to contribute? Feel free to **fork this repo**, submit **issues**, or suggest **features**. Let's build a greener web together! 🌱  
 
-📩 **Contact**: your-email@example.com  
+📩 **Contact**: heyaryx@gmail.com  
 🔗 **GitHub**: [github.com/heyaryx/webca](https://github.com/heyaryx/webca)  
 
 ## 🤝 License  
